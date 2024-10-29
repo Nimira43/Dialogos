@@ -14,7 +14,7 @@ export default function page() {
       <h5>Shadcn-UI</h5>
     </div>
     <div className='bg-[#87ceed] text-[#111] p-10 border-b-8 border-[#ff4500]'>
-      <Button>Button</Button>
+      <Button variant='synergasia'>Button</Button>
     </div>
     </>
     
