@@ -4,23 +4,23 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  font-family: 'League Spartan', sans-serif;
-  font-weight: 200;
-}
-
 html, 
 body,
 :root {
   height: 100%;
 } 
 
-.logo {
+body {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 200;
+}
+
+/* .logo {
   font-family: 'Amatic SC', sans-serif;  
   font-weight: bold;
   font-size: 30px;
   color: #ffa500;
-}
+} */
 
 @layer base {
   :root {
