@@ -3,4 +3,5 @@
 #### Next JS 14
 #### TypeScript
 #### Tailwind
+#### Shadcn-UI
 
