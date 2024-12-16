@@ -9,7 +9,7 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: "Dialogos",
-  description: "New project for repo - a live chat app using Next JS and Shadcn, Tailwind and TypeScript, Convex and Clerk",
+  description: "A live chat app using Next JS and Shadcn, Tailwind and TypeScript, Convex and Clerk",
 }
 
 export default function RootLayout({
